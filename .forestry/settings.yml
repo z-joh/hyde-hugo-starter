@@ -17,10 +17,6 @@ sections:
 - type: heading
   label: Documentation
 - type: document
-  path: README.md
-  label: README
-  read_only: true
-- type: document
   path: FIRSTSTEPS.md
   label: First Steps
   read_only: true
